@@ -1,5 +1,5 @@
-id_cliente,nome,genero,idade
-1,Anderson,M,44
-2,Fernanda,F,45
-3,Gustavo,M,6
-4,João,M,11
+id_cliente,nome,genero,data_nascimento
+1,Anderson,M,1980-11-06
+2,Fernanda,F,1979-04-12
+3,Gustavo,M,2019-02-20
+4,João,M,2013-03-01
