@@ -3,5 +3,5 @@
 ## Check extensiosn VSCode
 
 ```
- code --list-extensions | xargs -L 1 echo code --install-extension > extentions.txt
+code --list-extensions | xargs -L 1 echo code --install-extension > extentions.txt
 ```
